@@ -6,7 +6,7 @@ This program uses the Selenium module of python majorly to automate the entire p
 
 
 ## How to Run
-You can find a .exe named ***cms_enroller.exe*** in the ***dist/cms_enroller*** directory to run the script as an executable file without requiring to import modules or using an IDE
+You can find a .exe named ***cms_enroller.exe*** to run script as an executable file without requiring to import modules or using an IDE
 OR
 You can run the ***cms_enroller.py*** script in an IDE by installing the selenium module
 

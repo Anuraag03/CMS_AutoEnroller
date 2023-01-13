@@ -9,7 +9,6 @@ A Python Script that automates the enrolling process of the course management sy
 
 
 ## How to Run
-- Download the ZIP file
 - You can find a .exe file named ***cms_enroller.exe*** to run script as an executable file without requiring to import modules or using an IDE
 - Alternativerly you can run the ***cms_enroller.py*** script in an IDE by installing the selenium module
 

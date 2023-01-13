@@ -12,10 +12,9 @@ You can run the ***cms_enroller.py*** script in an IDE by installing the seleniu
 
 
 
-
 ## Future Plans for the Script:
 - Include options to enroll and get the entire material of a class for last minute prep
-- Create a directory and organize all the folders 
+- Create a directory and organize all the downloaded files  
 - Improve efficiency 
 - clear bugs
 - Reduce required memory size

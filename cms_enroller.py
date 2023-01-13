@@ -27,6 +27,7 @@ while flag:
 
 
 driver= webdriver.Chrome('chrome.driver') #open driver
+driver.minimize_window()
 driver.get('https://cms.bits-hyderabad.ac.in/my/') 
 gLink =driver.find_element(By.LINK_TEXT,value='Google') #click on sign in through Google
 gLink.click()

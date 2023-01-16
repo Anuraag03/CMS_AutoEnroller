@@ -22,3 +22,6 @@ A Python Script that automates the enrolling process of the course management sy
 - clear bugs
 - Reduce required memory size
 
+## Virus notification from Windows defender
+ Few systems have reported errors and the windows defender shows the .exe files created using PyInstaller or Auto-Py-to-exe modules to contain virus. Other instances of this problem reported <a href='https://github.com/brentvollebregt/auto-py-to-exe/issues/122'>here <a/>
+ The script itself is completely safe and free of malware.

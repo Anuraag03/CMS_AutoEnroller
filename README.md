@@ -2,7 +2,7 @@
 A Python Script that automates the enrolling process of the course management system of BITS Pilani Hyd Campus
 
 Latest Updates:
-Its downloads the ahndouts of the course and also displays the overview fo the announcements tab.
+Its downloads the handouts of the course and also displays the overview fo the announcements tab.
 
 ## Programming Languages and Modules
 - Python 3

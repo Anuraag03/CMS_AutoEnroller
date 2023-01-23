@@ -1,6 +1,9 @@
 # CMS_AutoEnroller
 A Python Script that automates the enrolling process of the course management system of BITS Pilani Hyd Campus
 
+Latest Updates:
+Its downloads the ahndouts of the course and also displays the overview fo the announcements tab.
+
 ## Programming Languages and Modules
 - Python 3
 - Selenium Module(find documentation <a href='https://selenium-python.readthedocs.io/'>here</a>
@@ -19,7 +22,6 @@ A Python Script that automates the enrolling process of the course management sy
 - Include options to enroll and get the entire material of a class for last minute prep
 - Create a directory and organize all the downloaded files  
 - Improve efficiency 
-- clear bugs
 - Reduce required memory size
 
 ## Virus notification from Windows defender
